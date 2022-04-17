@@ -1,6 +1,6 @@
-package net.cheatmod.cheatmod.item;
+package net.cheatmods.cheatmod.item;
 
-import net.cheatmod.cheatmod.creativemod;
+import net.cheatmods.cheatmod.creativemod;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraftforge.eventbus.api.IEventBus;

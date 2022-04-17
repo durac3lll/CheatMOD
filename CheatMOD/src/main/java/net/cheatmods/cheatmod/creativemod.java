@@ -1,6 +1,6 @@
-package net.cheatmod.cheatmod;
+package net.cheatmods.cheatmod;
 
-import net.cheatmod.cheatmod.item.ModItems;
+import net.cheatmods.cheatmod.item.ModItems;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
